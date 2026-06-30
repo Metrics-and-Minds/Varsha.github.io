@@ -2,7 +2,7 @@ Varsha Rani^
 Indian Institute of Management Bangalore (^)
 varsha.rani26@iimb.ac.in^
 LinkedIn^
-(^) varsha.github.io
+(^) varsha.github.io 
 Summary (^)
 (^) I am a PhD candidate in Decision Sciences at the Indian Institute of Management
 Bangalore, where my work focuses on developing and applying advanced
